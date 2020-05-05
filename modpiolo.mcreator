@@ -1,10 +1,30 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Rubi",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.modpiolo.rubibody": "Rubi Body",
+      "item.modpiolo.rubihelmet": "Rubi Helmet",
+      "item.modpiolo.rubilegs": "Rubi Leggings",
+      "item.modpiolo.rubiboots": "Rubi Boots"
+    }
   },
   "workspaceSettings": {
     "modid": "modpiolo",
