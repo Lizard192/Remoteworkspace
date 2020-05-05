@@ -14,6 +14,20 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "Uniforme",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
@@ -22,8 +36,12 @@
     "en_us": {
       "item.modpiolo.rubibody": "Rubi Body",
       "item.modpiolo.rubihelmet": "Rubi Helmet",
+      "item.modpiolo.uniformeboots": "Uniforme Boots",
       "item.modpiolo.rubilegs": "Rubi Leggings",
-      "item.modpiolo.rubiboots": "Rubi Boots"
+      "item.modpiolo.rubiboots": "Rubi Boots",
+      "item.modpiolo.uniformebody": "Uniforme Body",
+      "item.modpiolo.uniformelegs": "Uniforme Leggings",
+      "item.modpiolo.uniformehelmet": "Uniforme Helmet"
     }
   },
   "workspaceSettings": {

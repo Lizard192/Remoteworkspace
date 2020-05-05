@@ -1,6 +1,10 @@
 {
   "item.modpiolo.rubibody": "Rubi Body",
   "item.modpiolo.rubihelmet": "Rubi Helmet",
+  "item.modpiolo.uniformeboots": "Uniforme Boots",
   "item.modpiolo.rubilegs": "Rubi Leggings",
-  "item.modpiolo.rubiboots": "Rubi Boots"
+  "item.modpiolo.rubiboots": "Rubi Boots",
+  "item.modpiolo.uniformebody": "Uniforme Body",
+  "item.modpiolo.uniformelegs": "Uniforme Leggings",
+  "item.modpiolo.uniformehelmet": "Uniforme Helmet"
 }
