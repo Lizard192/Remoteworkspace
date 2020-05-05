@@ -14,6 +14,14 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "Lia",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -23,7 +31,8 @@
       "item.modpiolo.rubibody": "Rubi Body",
       "item.modpiolo.rubihelmet": "Rubi Helmet",
       "item.modpiolo.rubilegs": "Rubi Leggings",
-      "item.modpiolo.rubiboots": "Rubi Boots"
+      "item.modpiolo.rubiboots": "Rubi Boots",
+      "block.modpiolo.lia": "Lia"
     }
   },
   "workspaceSettings": {

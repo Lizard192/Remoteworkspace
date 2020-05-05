@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modpiolo:blocks/trol",
+    "up": "modpiolo:blocks/trol",
+    "north": "modpiolo:blocks/trol",
+    "east": "modpiolo:blocks/trol",
+    "south": "modpiolo:blocks/trol",
+    "west": "modpiolo:blocks/trol",
+    "particle": "modpiolo:blocks/trol"
+  }
+}
